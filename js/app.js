@@ -29,7 +29,7 @@ const loadProducts = () => {
     {
       id: 4,
       title: "Gv2 By Gevril",
-      price: 15.99,
+      price: 152.99,
       category: "men's watch",
       image: "https://www.worldofwatches.com/media/catalog/product/cache/f37af02772093860da70218ca33a6351/w/o/womens-genoa-stainless-steel-mother-of-pearl-dial-watch-gv2-by-gevril-y-a24fr_1.jpg",
       rating: { rate: 3.1, count: 430 },
@@ -38,7 +38,7 @@ const loadProducts = () => {
       id: 5,
       title:
         "Bell And Ross",
-      price: 695,
+      price: 69.25,
       category: "men's watch",
       image: "https://www.worldofwatches.com/media/catalog/product/cache/6275b0637049ab4262e9abf2e63a6f54/m/e/mens-horolum-chronograph-rubber-grey-dial-watch-bell-and-ross-blrbr0394-gr-st-scar_1.jpg",
       rating: { rate: 4.6, count: 400 },
@@ -86,45 +86,45 @@ const loadProducts = () => {
     {
       id: 11,
       title:
-        "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
-      price: 109,
+        "Chronograph Stainless Steel ",
+      price: 89,
       category: "men's watch",
-      image: "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg",
+      image: "https://www.worldofwatches.com/media/catalog/product/cache/6275b0637049ab4262e9abf2e63a6f54/m/e/mens-bedford-brownstone-ii-chronograph-stainless-steel-grey-dial-watch-bw-308-gry-1_1.jpg",
       rating: { rate: 4.8, count: 319 },
     },
     {
       id: 12,
       title:
-        "WD 4TB Gaming Drive Works with Playstation 4 Portable External Hard Drive",
+        "Brooklyn Blue Dial ",
       price: 114,
       category: "men's watch",
-      image: "https://fakestoreapi.com/img/61mtL65D4cL._AC_SX679_.jpg",
+      image: "https://www.worldofwatches.com/media/catalog/product/cache/f37af02772093860da70218ca33a6351/w/y/wyckoff-leather-black-blue-dial-watch-brooklyn-watch-co-bw-8353a2_1.jpg",
       rating: { rate: 4.8, count: 400 },
     },
     {
       id: 13,
-      title: "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
-      price: 599,
+      title: "Brooklyn Leather Brown",
+      price: 99.99,
       category: "men's watch",
-      image: "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+      image: "https://www.worldofwatches.com/media/catalog/product/cache/6275b0637049ab4262e9abf2e63a6f54/m/e/mens-dakota-chronograph-leather-brown-dial-watch-brooklyn-watch-co-bw-205-m2931_1.jpg",
       rating: { rate: 3.9, count: 250 },
     },
     {
       id: 14,
       title:
-        "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+        "Brooklyn Silver Star ",
       price: 999.99,
       category: "men's watch",
-      image: "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg",
+      image: "https://www.worldofwatches.com/media/catalog/product/cache/6275b0637049ab4262e9abf2e63a6f54/m/e/mens-dunham-stainless-steel-silver-skeletal-display-dial-watch-brooklyn-bw-202-m1112_1.jpg",
       rating: { rate: 4.2, count: 140 },
     },
     {
       id: 15,
-      title: "BIYLACLESEN Women's 3-in-1 Snowboard Jacket Winter Coats",
-      price: 56.99,
+      title: "Brooklyn Royal 325",
+      price: 96.99,
       category: "men's watch",
-      image: "https://fakestoreapi.com/img/51Y5NI-I5jL._AC_UX679_.jpg",
-      rating: { rate: 3.6, count: 235 },
+      image: "https://www.worldofwatches.com/media/catalog/product/cache/6275b0637049ab4262e9abf2e63a6f54/m/e/mens-bedford-brownstone-ii-chronograph-stainless-steel-blue-dial-watch-bw-308-blu-2_1.jpg",
+      rating: { rate: 4.6, count: 235 },
     },
 
 
